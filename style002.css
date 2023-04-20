@@ -1,0 +1,61 @@
+.container{
+    display:inline-flex  
+}
+
+.quadrado{
+    width: 200px;
+    height: 200px;
+    margin-right: 1px ;
+    margin-left: 1px;
+    margin-bottom: 1px;
+}
+.quadrado1{
+    width: 200px;
+    height: 200px;
+    margin-right: 1px ;
+    margin-left: 1px;
+    margin-bottom: 1px;
+}
+.quadrado2{
+    width: 200px;
+    height: 200px;
+    margin-right: 1px ;
+    margin-left: 1px;
+    margin-bottom: 1px;
+}
+.quadrado3{
+    width: 200px;
+    height: 200px;
+    margin-right: 1px ;
+    margin-left: 1px;
+    margin-bottom: 1px;
+}
+.quadrado4{
+    width: 200px;
+    height: 200px;
+    margin-right: 1px ;
+    margin-left: 1px;
+    margin-bottom: 1px;
+}
+.quadrado5{
+    width: 200px;
+    height: 200px;
+    margin-right: 1px ;
+    margin-left: 1px;
+    margin-bottom: 1px;
+}
+.azul{
+    background-color: rgb(54, 138, 234);
+}
+.vermelho{
+    background-color: red;
+}
+.verde{
+    background-color: rgb(48, 153, 48);
+}
+.amarelo{
+    background-color: yellow;
+}
+.borda{
+    border: 1px solid black;
+}
